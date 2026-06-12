@@ -1,0 +1,6 @@
+{
+  "name": "Academic Pro",
+  "description": "A high-fidelity academic dashboard and helper for students and parents, enabling tracking of grades, assignments, attendance, schedules, and active parent-teacher chat communication portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
